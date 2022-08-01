@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:advanced_shop/domain/models.dart';
+import 'package:advanced_shop/domain/models/models.dart';
 
 import '../../base/base_viewmodel.dart';
 import '../../resources/assets_manager.dart';
